@@ -3,14 +3,6 @@
 mkdir -p configs
 rm -f configs/*
 
-cat > configs/ns.yaml <<EOF
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: crontab-ns
-EOF
-
-
 for n in {51..100}
 do
   cat >> configs/crs.yaml <<EOF
