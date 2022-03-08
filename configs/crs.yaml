@@ -454,6 +454,8 @@ kind: CronTab
 metadata:
   name: cr-51
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -463,6 +465,8 @@ kind: CronTab
 metadata:
   name: cr-52
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -472,6 +476,8 @@ kind: CronTab
 metadata:
   name: cr-53
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -481,6 +487,8 @@ kind: CronTab
 metadata:
   name: cr-54
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -490,6 +498,8 @@ kind: CronTab
 metadata:
   name: cr-55
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -499,6 +509,8 @@ kind: CronTab
 metadata:
   name: cr-56
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -508,6 +520,8 @@ kind: CronTab
 metadata:
   name: cr-57
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -517,6 +531,8 @@ kind: CronTab
 metadata:
   name: cr-58
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -526,6 +542,8 @@ kind: CronTab
 metadata:
   name: cr-59
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -535,6 +553,8 @@ kind: CronTab
 metadata:
   name: cr-60
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -544,6 +564,8 @@ kind: CronTab
 metadata:
   name: cr-61
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -553,6 +575,8 @@ kind: CronTab
 metadata:
   name: cr-62
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -562,6 +586,8 @@ kind: CronTab
 metadata:
   name: cr-63
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -571,6 +597,8 @@ kind: CronTab
 metadata:
   name: cr-64
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -580,6 +608,8 @@ kind: CronTab
 metadata:
   name: cr-65
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -589,6 +619,8 @@ kind: CronTab
 metadata:
   name: cr-66
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -598,6 +630,8 @@ kind: CronTab
 metadata:
   name: cr-67
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -607,6 +641,8 @@ kind: CronTab
 metadata:
   name: cr-68
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -616,6 +652,8 @@ kind: CronTab
 metadata:
   name: cr-69
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -625,6 +663,8 @@ kind: CronTab
 metadata:
   name: cr-70
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -634,6 +674,8 @@ kind: CronTab
 metadata:
   name: cr-71
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -643,6 +685,8 @@ kind: CronTab
 metadata:
   name: cr-72
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -652,6 +696,8 @@ kind: CronTab
 metadata:
   name: cr-73
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -661,6 +707,8 @@ kind: CronTab
 metadata:
   name: cr-74
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -670,6 +718,8 @@ kind: CronTab
 metadata:
   name: cr-75
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -679,6 +729,8 @@ kind: CronTab
 metadata:
   name: cr-76
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -688,6 +740,8 @@ kind: CronTab
 metadata:
   name: cr-77
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -697,6 +751,8 @@ kind: CronTab
 metadata:
   name: cr-78
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -706,6 +762,8 @@ kind: CronTab
 metadata:
   name: cr-79
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -715,6 +773,8 @@ kind: CronTab
 metadata:
   name: cr-80
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -724,6 +784,8 @@ kind: CronTab
 metadata:
   name: cr-81
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -733,6 +795,8 @@ kind: CronTab
 metadata:
   name: cr-82
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -742,6 +806,8 @@ kind: CronTab
 metadata:
   name: cr-83
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -751,6 +817,8 @@ kind: CronTab
 metadata:
   name: cr-84
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -760,6 +828,8 @@ kind: CronTab
 metadata:
   name: cr-85
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -769,6 +839,8 @@ kind: CronTab
 metadata:
   name: cr-86
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -778,6 +850,8 @@ kind: CronTab
 metadata:
   name: cr-87
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -787,6 +861,8 @@ kind: CronTab
 metadata:
   name: cr-88
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -796,6 +872,8 @@ kind: CronTab
 metadata:
   name: cr-89
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -805,6 +883,8 @@ kind: CronTab
 metadata:
   name: cr-90
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -814,6 +894,8 @@ kind: CronTab
 metadata:
   name: cr-91
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -823,6 +905,8 @@ kind: CronTab
 metadata:
   name: cr-92
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -832,6 +916,8 @@ kind: CronTab
 metadata:
   name: cr-93
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -841,6 +927,8 @@ kind: CronTab
 metadata:
   name: cr-94
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -850,6 +938,8 @@ kind: CronTab
 metadata:
   name: cr-95
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -859,6 +949,8 @@ kind: CronTab
 metadata:
   name: cr-96
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -868,6 +960,8 @@ kind: CronTab
 metadata:
   name: cr-97
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -877,6 +971,8 @@ kind: CronTab
 metadata:
   name: cr-98
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -886,6 +982,8 @@ kind: CronTab
 metadata:
   name: cr-99
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
@@ -895,6 +993,8 @@ kind: CronTab
 metadata:
   name: cr-100
   namespace: crontab-ns
+  annotations:
+    configmanagement.gke.io/managed: disabled
 spec:
   cronSpec: "* * * * */5"
   extra: field
